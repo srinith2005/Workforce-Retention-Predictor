@@ -50,7 +50,7 @@ Follow these steps to run the project in Jupyter Notebook:
 4. Launch Jupyter Notebook
 5. Open the notebook
 6. Run the notebook
-    Click **Kernel → Restart & Run All** or run each cell one by one using **Shift + Enter**.
+   - Click **Kernel → Restart & Run All** or run each cell one by one using **Shift + Enter**.
 7. View the results
 
 ##  What I Learned
