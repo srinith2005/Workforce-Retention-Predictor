@@ -1,4 +1,4 @@
-# Employee Attrition Prediction
+# Workforce-Retention-Predictor
 
 ##  Overview
 
@@ -67,9 +67,9 @@ Follow these steps to run the project in Jupyter Notebook:
 
 ## Author
 
-**ARELLI SANJAY**
-- GitHub: https://github.com/arelli-sanjay
-- Linkedin: https://www.linkedin.com/in/sanjay-arelli-2b0970383/
+**SRINITH GOUD BOJJA**
+- GitHub: https://github.com/srinith2005
+- Linkedin: https://www.linkedin.com/in/srinithgoud/
 
 ## Support
-If you like Employee Attrition Prediction consider giving it a star, on GitHub.
+If you like Workforce-Retention-Predictor consider giving it a star, on GitHub.
